@@ -3,6 +3,9 @@
 ## Requisitos da instalação
 - Node
     - Versão: v8.12.0
+- Backend de Integração
+    - Instruções de instalação no README do projeto
+    - [https://github.com/vitorcayres/backend-mercado-livre](https://github.com/vitorcayres/backend-mercado-livre)
 
 ## Instalação
 

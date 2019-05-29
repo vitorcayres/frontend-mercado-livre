@@ -9,7 +9,7 @@
 
 ## Instalação
 
-No diretório do projeto, execute o seguinte comando: ```$ npm install ```
+No diretório do projeto, execute o seguinte comando: ```$ npm install ``` <br >
 Após baixar os pacotes, execute o seguinte comando: ```$ npm start ```
 
 O site será executado no modo de desenvolvimento. <br>
